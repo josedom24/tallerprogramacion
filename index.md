@@ -7,9 +7,9 @@ permalink: index.html
 
 ## Introducción a la programación
 
-1. [Resolución de problemas](curso/u1) - [**[Presentación]**](curso/u1/u1.pdf)
-2. [Análisis del problema](curso/u2) - [**[Presentación]**](curso/u2/u2.pdf)
-3. [Diseño de algoritmos](curso/u3) - [**[Presentación]**](curso/u3/u3.pdf)
+1. [Resolución de problemas](curso/u1) - [[Presentación]](curso/u1/u1.pdf)
+2. [Análisis del problema](curso/u2) - [[Presentación]](curso/u2/u2.pdf)
+3. [Diseño de algoritmos](curso/u3) - [[Presentación]](curso/u3/u3.pdf)
 
 ## Entorno de trabajo: PSeInt
 
