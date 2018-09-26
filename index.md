@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Taller: Introducción a la programación con pseudocódigo
 
 ## Introducción a la programación
