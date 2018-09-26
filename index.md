@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: index.html
 ---
 
 # Taller: Introducción a la programación con pseudocódigo
