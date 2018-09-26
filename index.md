@@ -7,7 +7,7 @@ permalink: index.html
 
 ## Introducción a la programación
 
-1. [Resolución de problemas](curso/u1) - [Presentación](curso/u1/u1.pdf)
+1. [Resolución de problemas](curso/u1) - [**[Presentación]**](curso/u1/u1.pdf)
 2. [Análisis del problema](curso/u2)
 3. [Diseño de algoritmos](curso/u3)
 
