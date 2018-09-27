@@ -4,7 +4,7 @@ El tipo de dato representa la clase de datos con el que vamos a trabajar. Tenemo
 
 * Números enteros: Nos sirve para representar números enteros.
 * Números reales: Nos sirve para representar números reales.
-* Cadenas de caracteres: Nos permite trabaja con cadenas de caracteres.
+* Cadenas de caracteres: Nos permite trabajar con cadenas de caracteres.
 * Valores lógicos: Nos permite trabajar con valores lógicos.
 
 Al escribir pseudocódigo en un programa de ordenador, tenemos que representar cada tipo de datos en binario y tenemos que decidir la memoria que va a ocupar cada uno de los tipos de datos.
