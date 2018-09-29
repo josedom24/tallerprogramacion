@@ -5,7 +5,7 @@ permalink: index.html
 
 # Taller: Introducción a la programación con pseudocódigo
 
-* [Presentación del curso](https://docs.google.com/presentation/d/e/2PACX-1vRUh9rGAN2AJmtreO0WR_a9_s2aLOPBZF-yoHgqvG0JXn1tHdhe78ocg2Enh_uDQZ461N34PZ7_6CGh/pub?start=false&loop=false&delayms=3000#slide=id.g435a8dd595_0_238)
+* [Presentación del curso](https://docs.google.com/presentation/d/e/2PACX-1vRUh9rGAN2AJmtreO0WR_a9_s2aLOPBZF-yoHgqvG0JXn1tHdhe78ocg2Enh_uDQZ461N34PZ7_6CGh/pub?start=true&loop=false&delayms=3000)
 
 ## Introducción a la programación
 
